@@ -1,0 +1,16 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compileOnSave": false,
+  "files": [],
+  "references": [
+    {
+      "path": "./packages/metrics"
+    },
+    {
+      "path": "./packages/metrics-collector"
+    },
+    {
+      "path": "./packages/scripts"
+    }
+  ]
+}

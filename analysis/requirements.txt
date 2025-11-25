@@ -1,0 +1,29 @@
+# Python залежності для Data Analysis (Фаза 2)
+# Outcome-based оцінка якості TypeScript коду
+# Магістерська робота, Одеський політехнічний національний університет
+
+# Основні бібліотеки для аналізу даних
+pandas>=2.1.0
+numpy>=1.24.0
+
+# Візуалізація
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Статистичний аналіз
+scipy>=1.11.0
+statsmodels>=0.14.0  # advanced regression, ANOVA, statistical tests
+
+# Machine Learning та preprocessing
+scikit-learn>=1.3.0  # clustering, PCA, scaling, feature engineering
+xgboost>=2.0.0  # Gradient Boosting для regression
+lightgbm>=4.0.0  # Gradient Boosting (альтернатива XGBoost)
+shap>=0.44.0  # model interpretability та explainability
+
+# Jupyter для інтерактивного аналізу
+jupyter>=1.0.0
+notebook>=7.0.0
+ipywidgets>=8.0.0
+
+# Допоміжні бібліотеки
+openpyxl>=3.1.0  # для роботи з Excel файлами

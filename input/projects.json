@@ -1,0 +1,304 @@
+{
+  "projects": [
+    {
+      "owner": "microsoft",
+      "repo": "TypeScript",
+      "description": "TypeScript compiler",
+      "category": "Core TypeScript Projects"
+    },
+    {
+      "owner": "angular",
+      "repo": "angular",
+      "description": "Angular framework",
+      "category": "Core TypeScript Projects"
+    },
+    {
+      "owner": "remix-run",
+      "repo": "remix",
+      "description": "Full-stack framework",
+      "category": "Core TypeScript Projects"
+    },
+    {
+      "owner": "vitejs",
+      "repo": "vite",
+      "description": "Build tool",
+      "category": "Core TypeScript Projects"
+    },
+    {
+      "owner": "remix-run",
+      "repo": "react-router",
+      "description": "Navigation library",
+      "category": "Core TypeScript Projects"
+    },
+    {
+      "owner": "storybookjs",
+      "repo": "storybook",
+      "description": "Component development",
+      "category": "Core TypeScript Projects"
+    },
+    {
+      "owner": "nestjs",
+      "repo": "nest",
+      "description": "Progressive Node.js framework",
+      "category": "Core TypeScript Projects"
+    },
+    {
+      "owner": "withastro",
+      "repo": "astro",
+      "description": "Static site builder",
+      "category": "Core TypeScript Projects"
+    },
+    {
+      "owner": "BuilderIO",
+      "repo": "qwik",
+      "description": "Resumability framework",
+      "category": "Core TypeScript Projects"
+    },
+    {
+      "owner": "trpc",
+      "repo": "trpc",
+      "description": "Type-safe API framework",
+      "category": "Core TypeScript Projects"
+    },
+    {
+      "owner": "mui",
+      "repo": "material-ui",
+      "description": "Material Design components",
+      "category": "UI Component Libraries"
+    },
+    {
+      "owner": "ant-design",
+      "repo": "ant-design",
+      "description": "Enterprise UI library",
+      "category": "UI Component Libraries"
+    },
+    {
+      "owner": "chakra-ui",
+      "repo": "chakra-ui",
+      "description": "Accessible components",
+      "category": "UI Component Libraries"
+    },
+    {
+      "owner": "mantinedev",
+      "repo": "mantine",
+      "description": "React components library",
+      "category": "UI Component Libraries"
+    },
+    {
+      "owner": "radix-ui",
+      "repo": "primitives",
+      "description": "Unstyled components",
+      "category": "UI Component Libraries"
+    },
+    {
+      "owner": "shadcn-ui",
+      "repo": "ui",
+      "description": "Radix-based components",
+      "category": "UI Component Libraries"
+    },
+    {
+      "owner": "tailwindlabs",
+      "repo": "headlessui",
+      "description": "Headless UI components",
+      "category": "UI Component Libraries"
+    },
+    {
+      "owner": "react-bootstrap",
+      "repo": "react-bootstrap",
+      "description": "Bootstrap components",
+      "category": "UI Component Libraries"
+    },
+    {
+      "owner": "Semantic-Org",
+      "repo": "Semantic-UI-React",
+      "description": "Semantic UI React",
+      "category": "UI Component Libraries"
+    },
+    {
+      "owner": "palantir",
+      "repo": "blueprint",
+      "description": "Desktop UI toolkit",
+      "category": "UI Component Libraries"
+    },
+    {
+      "owner": "reduxjs",
+      "repo": "redux",
+      "description": "State container",
+      "category": "State Management"
+    },
+    {
+      "owner": "reduxjs",
+      "repo": "redux-toolkit",
+      "description": "Redux toolset",
+      "category": "State Management"
+    },
+    {
+      "owner": "mobxjs",
+      "repo": "mobx",
+      "description": "Reactive state",
+      "category": "State Management"
+    },
+    {
+      "owner": "pmndrs",
+      "repo": "zustand",
+      "description": "Minimal state",
+      "category": "State Management"
+    },
+    {
+      "owner": "pmndrs",
+      "repo": "jotai",
+      "description": "Atomic state",
+      "category": "State Management"
+    },
+    {
+      "owner": "pmndrs",
+      "repo": "valtio",
+      "description": "Proxy state",
+      "category": "State Management"
+    },
+    {
+      "owner": "TanStack",
+      "repo": "query",
+      "description": "Data fetching",
+      "category": "State Management"
+    },
+    {
+      "owner": "apollographql",
+      "repo": "apollo-client",
+      "description": "GraphQL client",
+      "category": "State Management"
+    },
+    {
+      "owner": "typeorm",
+      "repo": "typeorm",
+      "description": "TypeScript ORM",
+      "category": "Build Tools"
+    },
+    {
+      "owner": "evanw",
+      "repo": "esbuild",
+      "description": "Fast bundler",
+      "category": "Build Tools"
+    },
+    {
+      "owner": "swc-project",
+      "repo": "swc",
+      "description": "Fast compiler",
+      "category": "Build Tools"
+    },
+    {
+      "owner": "prisma",
+      "repo": "prisma",
+      "description": "Next-generation ORM",
+      "category": "Build Tools"
+    },
+    {
+      "owner": "web-infra-dev",
+      "repo": "rspack",
+      "description": "Fast bundler",
+      "category": "Build Tools"
+    },
+    {
+      "owner": "vercel",
+      "repo": "turbo",
+      "description": "Build system",
+      "category": "Build Tools"
+    },
+    {
+      "owner": "testing-library",
+      "repo": "react-testing-library",
+      "description": "Testing utilities",
+      "category": "Developer Tools"
+    },
+    {
+      "owner": "microsoft",
+      "repo": "playwright",
+      "description": "E2E testing",
+      "category": "Developer Tools"
+    },
+    {
+      "owner": "vitest-dev",
+      "repo": "vitest",
+      "description": "Test framework",
+      "category": "Developer Tools"
+    },
+    {
+      "owner": "nrwl",
+      "repo": "nx",
+      "description": "Monorepo build system",
+      "category": "Developer Tools"
+    },
+    {
+      "owner": "colinhacks",
+      "repo": "zod",
+      "description": "TypeScript-first schema validation",
+      "category": "Developer Tools"
+    },
+    {
+      "owner": "typescript-eslint",
+      "repo": "typescript-eslint",
+      "description": "ESLint for TS",
+      "category": "Developer Tools"
+    },
+    {
+      "owner": "lerna",
+      "repo": "lerna",
+      "description": "Monorepo tool",
+      "category": "Developer Tools"
+    },
+    {
+      "owner": "mswjs",
+      "repo": "msw",
+      "description": "API mocking",
+      "category": "Developer Tools"
+    },
+    {
+      "owner": "react-hook-form",
+      "repo": "react-hook-form",
+      "description": "Form library",
+      "category": "Data & Forms"
+    },
+    {
+      "owner": "TanStack",
+      "repo": "form",
+      "description": "Form state",
+      "category": "Data & Forms"
+    },
+    {
+      "owner": "JedWatson",
+      "repo": "react-select",
+      "description": "Select component",
+      "category": "Data & Forms"
+    },
+    {
+      "owner": "pmndrs",
+      "repo": "react-spring",
+      "description": "Animation library",
+      "category": "Data & Forms"
+    },
+    {
+      "owner": "recharts",
+      "repo": "recharts",
+      "description": "Chart library",
+      "category": "Data & Forms"
+    },
+    {
+      "owner": "clauderic",
+      "repo": "dnd-kit",
+      "description": "Drag and drop",
+      "category": "Data & Forms"
+    },
+    {
+      "owner": "floating-ui",
+      "repo": "floating-ui",
+      "description": "Positioning library",
+      "category": "Data & Forms"
+    },
+    {
+      "owner": "rjsf-team",
+      "repo": "react-jsonschema-form",
+      "description": "JSON Schema forms",
+      "category": "Data & Forms"
+    }
+  ]
+}

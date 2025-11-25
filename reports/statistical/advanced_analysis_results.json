@@ -1,0 +1,23 @@
+{
+  "Mediation Analysis (DX → TP → BI)": {
+    "Total Effect (c)": 0.0005382806275425816,
+    "Direct Effect (c')": 0.000571950849029657,
+    "Indirect Effect (a×b)": -3.3670221486967914e-5,
+    "Proportion Mediated": -0.06255142720012596,
+    "Path a (DX→TP)": -997.3309999630092,
+    "Path b (TP→BI)": 3.376032780312327e-8
+  },
+  "Partial Correlation Example": {
+    "Variables": "testCoverage ↔ communityGrowth | codeReviewDuration",
+    "Zero-order r": 0.7716046823825267,
+    "Partial r": 0.768076060788582,
+    "p-value": 7.518324767132823e-11
+  },
+  "Variance Decomposition": {
+    "R² (DX only)": 0.06336573204648388,
+    "R² (DX + TP)": 0.16937574331109162,
+    "R² (DX + TP + BI)": 0.17319436085161977,
+    "Incremental R² (TP)": 0.10601001126460774,
+    "Incremental R² (BI)": 0.0038186175405281464
+  }
+}

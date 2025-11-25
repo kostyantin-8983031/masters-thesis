@@ -1,0 +1,1793 @@
+{
+  "generatedAt": "2025-10-09T12:01:32.170Z",
+  "projects": [
+    {
+      "name": "microsoft/TypeScript",
+      "description": "TypeScript compiler",
+      "overallScore": 57,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 17.993,
+      "collectedAt": "2025-10-09T12:01:32.171Z",
+      "developerExperience": {
+        "codeReviewDuration": 470.8465740740742,
+        "debuggingTime": 6593.842569444445,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 1.687289637854646,
+        "averageCommentsPerPR": 12.6,
+        "prIterationRate": 0.5
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 2928311296,
+        "bundleLoadTime": 29283112.96,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.43125,
+        "testCoverage": 95
+      },
+      "businessImpact": {
+        "timeToMarket": 17.56643145794099,
+        "featureSuccessRate": 0.59,
+        "activeContributors": 21,
+        "issueResolutionRate": 0.2625,
+        "communityGrowth": 106.321
+      },
+      "errors": []
+    },
+    {
+      "name": "angular/angular",
+      "description": "Angular framework",
+      "overallScore": 78,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 12.151,
+      "collectedAt": "2025-10-09T12:01:51.165Z",
+      "developerExperience": {
+        "codeReviewDuration": 0.2436111111111111,
+        "debuggingTime": 2036.8355555555556,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 94.4127708095781,
+        "averageCommentsPerPR": 0,
+        "prIterationRate": 0
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 585264128,
+        "bundleLoadTime": 5852641.28,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.26111111111111107,
+        "testCoverage": 95
+      },
+      "businessImpact": {
+        "timeToMarket": 0.00562307098765432,
+        "featureSuccessRate": 0.06,
+        "activeContributors": 1,
+        "issueResolutionRate": 0.5555555555555556,
+        "communityGrowth": 99.042
+      },
+      "errors": []
+    },
+    {
+      "name": "remix-run/remix",
+      "description": "Full-stack framework",
+      "overallScore": 68,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.566,
+      "collectedAt": "2025-10-02T08:05:01.497Z",
+      "developerExperience": {
+        "codeReviewDuration": 36.86667508417509,
+        "debuggingTime": 1745.225524691358,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 3.7859600101466717,
+        "averageCommentsPerPR": 0.1,
+        "prIterationRate": 0.3
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 56610816,
+        "bundleLoadTime": 566108.16,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.16034482758620688,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 2.456469671201814,
+        "featureSuccessRate": 0.49,
+        "activeContributors": 10,
+        "issueResolutionRate": 0.7931034482758621,
+        "communityGrowth": 31.692
+      },
+      "errors": []
+    },
+    {
+      "name": "vitejs/vite",
+      "description": "Build tool",
+      "overallScore": 68,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.177,
+      "collectedAt": "2025-10-02T08:05:16.064Z",
+      "developerExperience": {
+        "codeReviewDuration": 669.5185690235688,
+        "debuggingTime": 1151.726875,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.06227903395985101,
+        "averageCommentsPerPR": 2.4,
+        "prIterationRate": 0.7
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 59602944,
+        "bundleLoadTime": 596029.44,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.17903225806451611,
+        "testCoverage": 95
+      },
+      "businessImpact": {
+        "timeToMarket": 13.476939553990608,
+        "featureSuccessRate": 0.71,
+        "activeContributors": 26,
+        "issueResolutionRate": 0.5645161290322581,
+        "communityGrowth": 75.561
+      },
+      "errors": []
+    },
+    {
+      "name": "remix-run/react-router",
+      "description": "Navigation library",
+      "overallScore": 68,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.288,
+      "collectedAt": "2025-10-02T08:05:30.243Z",
+      "developerExperience": {
+        "codeReviewDuration": 183.3248062015504,
+        "debuggingTime": 672.3727146464648,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.36204643767786243,
+        "averageCommentsPerPR": 2.7,
+        "prIterationRate": 0.6
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 43671552,
+        "bundleLoadTime": 436715.52,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.17790697674418604,
+        "testCoverage": 95
+      },
+      "businessImpact": {
+        "timeToMarket": 5.446009466999052,
+        "featureSuccessRate": 0.78,
+        "activeContributors": 21,
+        "issueResolutionRate": 0.6744186046511628,
+        "communityGrowth": 55.562
+      },
+      "errors": []
+    },
+    {
+      "name": "storybookjs/storybook",
+      "description": "Component development",
+      "overallScore": 66,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.028,
+      "collectedAt": "2025-10-02T08:05:44.532Z",
+      "developerExperience": {
+        "codeReviewDuration": 394.82046296296295,
+        "debuggingTime": 3281.3514999999998,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.10046760588087271,
+        "averageCommentsPerPR": 6.6,
+        "prIterationRate": 0.6
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 1081166848,
+        "bundleLoadTime": 10811668.48,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.18,
+        "testCoverage": 95
+      },
+      "businessImpact": {
+        "timeToMarket": 15.013291015625,
+        "featureSuccessRate": 0.64,
+        "activeContributors": 33,
+        "issueResolutionRate": 0.2,
+        "communityGrowth": 87.87
+      },
+      "errors": []
+    },
+    {
+      "name": "nestjs/nest",
+      "description": "Progressive Node.js framework",
+      "overallScore": 84,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.423,
+      "collectedAt": "2025-10-09T12:02:04.319Z",
+      "developerExperience": {
+        "codeReviewDuration": 15.970069444444437,
+        "debuggingTime": 0,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.4508433745417863,
+        "averageCommentsPerPR": 1.4,
+        "prIterationRate": 0
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 443699200,
+        "bundleLoadTime": 4436992,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.23823529411764705,
+        "testCoverage": 95
+      },
+      "businessImpact": {
+        "timeToMarket": 1.2516454231129859,
+        "featureSuccessRate": 0.79,
+        "activeContributors": 4,
+        "issueResolutionRate": 0.6470588235294118,
+        "communityGrowth": 72.967
+      },
+      "errors": []
+    },
+    {
+      "name": "withastro/astro",
+      "description": "Static site builder",
+      "overallScore": 71,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 12.989,
+      "collectedAt": "2025-10-02T08:06:13.262Z",
+      "developerExperience": {
+        "codeReviewDuration": 385.9310579196217,
+        "debuggingTime": 38.399027777777775,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.1130176501256862,
+        "averageCommentsPerPR": 5,
+        "prIterationRate": 0.6
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 206482432,
+        "bundleLoadTime": 2064824.32,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.1575,
+        "testCoverage": 95
+      },
+      "businessImpact": {
+        "timeToMarket": 11.56654513888889,
+        "featureSuccessRate": 0.84,
+        "activeContributors": 22,
+        "issueResolutionRate": 0.625,
+        "communityGrowth": 53.619
+      },
+      "errors": []
+    },
+    {
+      "name": "BuilderIO/qwik",
+      "description": "Resumability framework",
+      "overallScore": 71,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 18.571,
+      "collectedAt": "2025-10-02T08:06:27.253Z",
+      "developerExperience": {
+        "codeReviewDuration": 96.13494152046785,
+        "debuggingTime": 5056.698277777777,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 1.6166968031960434,
+        "averageCommentsPerPR": 3.1,
+        "prIterationRate": 0.5
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 62744576,
+        "bundleLoadTime": 627445.76,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.28,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 5.074989872685185,
+        "featureSuccessRate": 0.8,
+        "activeContributors": 11,
+        "issueResolutionRate": 0.6333333333333333,
+        "communityGrowth": 21.702
+      },
+      "errors": []
+    },
+    {
+      "name": "trpc/trpc",
+      "description": "Type-safe API framework",
+      "overallScore": 68,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 14.805,
+      "collectedAt": "2025-10-09T12:02:18.746Z",
+      "developerExperience": {
+        "codeReviewDuration": 129.12643631436316,
+        "debuggingTime": 510.55911616161626,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.7933234069966296,
+        "averageCommentsPerPR": 7.2,
+        "prIterationRate": 0.6
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 54971392,
+        "bundleLoadTime": 549713.92,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.3214285714285714,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 6.825439814814813,
+        "featureSuccessRate": 0.82,
+        "activeContributors": 33,
+        "issueResolutionRate": 0.2571428571428571,
+        "communityGrowth": 38.619
+      },
+      "errors": []
+    },
+    {
+      "name": "mui/material-ui",
+      "description": "Material Design components",
+      "overallScore": 71,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 17.783,
+      "collectedAt": "2025-10-02T08:07:00.944Z",
+      "developerExperience": {
+        "codeReviewDuration": 246.14245555555553,
+        "debuggingTime": 134.72972222222222,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.16892656695957595,
+        "averageCommentsPerPR": 5.7,
+        "prIterationRate": 0.7
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 714881024,
+        "bundleLoadTime": 7148810.24,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.35,
+        "testCoverage": 95
+      },
+      "businessImpact": {
+        "timeToMarket": 6.744064351851854,
+        "featureSuccessRate": 1,
+        "activeContributors": 47,
+        "issueResolutionRate": 0.6666666666666666,
+        "communityGrowth": 96.715
+      },
+      "errors": []
+    },
+    {
+      "name": "ant-design/ant-design",
+      "description": "Enterprise UI library",
+      "overallScore": 70,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.112,
+      "collectedAt": "2025-10-02T08:07:19.729Z",
+      "developerExperience": {
+        "codeReviewDuration": 141.97487080103355,
+        "debuggingTime": 0,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.4974676615534559,
+        "averageCommentsPerPR": 10.6,
+        "prIterationRate": 0.8
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 243172352,
+        "bundleLoadTime": 2431723.52,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.1875,
+        "testCoverage": 95
+      },
+      "businessImpact": {
+        "timeToMarket": 7.161035294423635,
+        "featureSuccessRate": 0.89,
+        "activeContributors": 21,
+        "issueResolutionRate": 0.25,
+        "communityGrowth": 96.255
+      },
+      "errors": []
+    },
+    {
+      "name": "chakra-ui/chakra-ui",
+      "description": "Accessible components",
+      "overallScore": 77,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 12.331,
+      "collectedAt": "2025-10-02T08:07:33.843Z",
+      "developerExperience": {
+        "codeReviewDuration": 61.732325581395344,
+        "debuggingTime": 1628.4966666666667,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.5270315578510374,
+        "averageCommentsPerPR": 2,
+        "prIterationRate": 0.2
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 285070336,
+        "bundleLoadTime": 2850703.36,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.19615384615384615,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 4.214769345238095,
+        "featureSuccessRate": 0.84,
+        "activeContributors": 28,
+        "issueResolutionRate": 0.9807692307692307,
+        "communityGrowth": 39.765
+      },
+      "errors": []
+    },
+    {
+      "name": "mantinedev/mantine",
+      "description": "React components library",
+      "overallScore": 73,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.782,
+      "collectedAt": "2025-10-02T08:07:47.176Z",
+      "developerExperience": {
+        "codeReviewDuration": 87.35621273712738,
+        "debuggingTime": 5.903888888888889,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.10693530685384119,
+        "averageCommentsPerPR": 1.4,
+        "prIterationRate": 0.2
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 203544576,
+        "bundleLoadTime": 2035445.76,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.1764705882352941,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 5.686848668981481,
+        "featureSuccessRate": 0.8,
+        "activeContributors": 55,
+        "issueResolutionRate": 0.8382352941176471,
+        "communityGrowth": 29.777
+      },
+      "errors": []
+    },
+    {
+      "name": "radix-ui/primitives",
+      "description": "Unstyled components",
+      "overallScore": 63,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 14.382,
+      "collectedAt": "2025-10-02T08:08:01.959Z",
+      "developerExperience": {
+        "codeReviewDuration": 994.7876058201063,
+        "debuggingTime": 4445.979259259259,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.0344174927771333,
+        "averageCommentsPerPR": 5.4,
+        "prIterationRate": 0.7
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 22098944,
+        "bundleLoadTime": 220989.44,
+        "performanceScore": 78.419,
+        "typeScriptErrorRate": 0.1608433734939759,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 21.655008169934632,
+        "featureSuccessRate": 0.51,
+        "activeContributors": 16,
+        "issueResolutionRate": 0.1927710843373494,
+        "communityGrowth": 17.953
+      },
+      "errors": []
+    },
+    {
+      "name": "shadcn-ui/ui",
+      "description": "Radix-based components",
+      "overallScore": 71,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 11.724,
+      "collectedAt": "2025-10-02T08:08:17.342Z",
+      "developerExperience": {
+        "codeReviewDuration": 14.992048611111112,
+        "debuggingTime": 6063.613835125446,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 115.8780927852959,
+        "averageCommentsPerPR": 1.125,
+        "prIterationRate": 0.5
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 38243328,
+        "bundleLoadTime": 382433.28,
+        "performanceScore": 62.653,
+        "typeScriptErrorRate": 0.19153846153846155,
+        "testCoverage": 95
+      },
+      "businessImpact": {
+        "timeToMarket": 2.6354687500000007,
+        "featureSuccessRate": 0.3,
+        "activeContributors": 21,
+        "issueResolutionRate": 0.3076923076923077,
+        "communityGrowth": 95.763
+      },
+      "errors": []
+    },
+    {
+      "name": "tailwindlabs/headlessui",
+      "description": "Headless UI components",
+      "overallScore": 77,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 12.139,
+      "collectedAt": "2025-10-02T08:08:30.068Z",
+      "developerExperience": {
+        "codeReviewDuration": 562.3750877192983,
+        "debuggingTime": 0,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.04950807009618977,
+        "averageCommentsPerPR": 3.2,
+        "prIterationRate": 1
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 7260160,
+        "bundleLoadTime": 72601.6,
+        "performanceScore": 92.91,
+        "typeScriptErrorRate": 0.1644578313253012,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 11.803094729344728,
+        "featureSuccessRate": 0.78,
+        "activeContributors": 13,
+        "issueResolutionRate": 0.3253012048192771,
+        "communityGrowth": 28
+      },
+      "errors": []
+    },
+    {
+      "name": "react-bootstrap/react-bootstrap",
+      "description": "Bootstrap components",
+      "overallScore": 62,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.219,
+      "collectedAt": "2025-10-02T08:08:43.209Z",
+      "developerExperience": {
+        "codeReviewDuration": 405.9384578544061,
+        "debuggingTime": 3381.6253205128205,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.25874484352574534,
+        "averageCommentsPerPR": 0.2,
+        "prIterationRate": 0.1
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 33408000,
+        "bundleLoadTime": 334080,
+        "performanceScore": 67.375,
+        "typeScriptErrorRate": 0.1891304347826087,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 12.78630583983106,
+        "featureSuccessRate": 0.57,
+        "activeContributors": 14,
+        "issueResolutionRate": 0.6739130434782609,
+        "communityGrowth": 22.606
+      },
+      "errors": []
+    },
+    {
+      "name": "Semantic-Org/Semantic-UI-React",
+      "description": "Semantic UI React",
+      "overallScore": 65,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 14.759,
+      "collectedAt": "2025-10-02T08:08:57.428Z",
+      "developerExperience": {
+        "codeReviewDuration": 582.4987422839505,
+        "debuggingTime": 5484.46130952381,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.7601351653424464,
+        "averageCommentsPerPR": 6.9,
+        "prIterationRate": 0.8
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 210960384,
+        "bundleLoadTime": 2109603.84,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.319047619047619,
+        "testCoverage": 75
+      },
+      "businessImpact": {
+        "timeToMarket": 27.78198032407409,
+        "featureSuccessRate": 0.8,
+        "activeContributors": 29,
+        "issueResolutionRate": 0.2857142857142857,
+        "communityGrowth": 13.264
+      },
+      "errors": []
+    },
+    {
+      "name": "palantir/blueprint",
+      "description": "Desktop UI toolkit",
+      "overallScore": 66,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 12.931,
+      "collectedAt": "2025-10-02T08:09:13.189Z",
+      "developerExperience": {
+        "codeReviewDuration": 197.82041666666666,
+        "debuggingTime": 74.46055555555556,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.4087601900432983,
+        "averageCommentsPerPR": 3.4,
+        "prIterationRate": 0.6
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 203575296,
+        "bundleLoadTime": 2035752.96,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.15,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 20.63573688271605,
+        "featureSuccessRate": 0.75,
+        "activeContributors": 28,
+        "issueResolutionRate": 0.18181818181818182,
+        "communityGrowth": 21.296
+      },
+      "errors": []
+    },
+    {
+      "name": "reduxjs/redux",
+      "description": "State container",
+      "overallScore": 84,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 14.473,
+      "collectedAt": "2025-10-02T08:09:27.122Z",
+      "developerExperience": {
+        "codeReviewDuration": 22.335222222222225,
+        "debuggingTime": 0,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 5.379395772496853,
+        "averageCommentsPerPR": 3.9,
+        "prIterationRate": 0.1
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 34868224,
+        "bundleLoadTime": 348682.24,
+        "performanceScore": 65.949,
+        "typeScriptErrorRate": 0.19166666666666665,
+        "testCoverage": 95
+      },
+      "businessImpact": {
+        "timeToMarket": 13.85484653078403,
+        "featureSuccessRate": 0.77,
+        "activeContributors": 49,
+        "issueResolutionRate": 0.6666666666666666,
+        "communityGrowth": 61.346
+      },
+      "errors": []
+    },
+    {
+      "name": "reduxjs/redux-toolkit",
+      "description": "Redux toolset",
+      "overallScore": 71,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 12.734,
+      "collectedAt": "2025-10-02T08:09:42.596Z",
+      "developerExperience": {
+        "codeReviewDuration": 635.8725378787881,
+        "debuggingTime": 8499.854777777777,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.05586454070060614,
+        "averageCommentsPerPR": 5.2,
+        "prIterationRate": 0.7
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 43160576,
+        "bundleLoadTime": 431605.76,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.22397260273972602,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 26.714851753349084,
+        "featureSuccessRate": 0.94,
+        "activeContributors": 19,
+        "issueResolutionRate": 0.5342465753424658,
+        "communityGrowth": 11.103
+      },
+      "errors": []
+    },
+    {
+      "name": "mobxjs/mobx",
+      "description": "Reactive state",
+      "overallScore": 68,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.592,
+      "collectedAt": "2025-10-02T08:09:56.332Z",
+      "developerExperience": {
+        "codeReviewDuration": 429.8242613636364,
+        "debuggingTime": 1766.129099616858,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.23344635961816845,
+        "averageCommentsPerPR": 3.2,
+        "prIterationRate": 0.3
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 21677056,
+        "bundleLoadTime": 216770.56,
+        "performanceScore": 78.831,
+        "typeScriptErrorRate": 0.22333333333333333,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 29.489669008088548,
+        "featureSuccessRate": 0.87,
+        "activeContributors": 38,
+        "issueResolutionRate": 0.4888888888888889,
+        "communityGrowth": 28.056
+      },
+      "errors": []
+    },
+    {
+      "name": "pmndrs/zustand",
+      "description": "Minimal state",
+      "overallScore": 82,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.979,
+      "collectedAt": "2025-10-02T08:10:10.926Z",
+      "developerExperience": {
+        "codeReviewDuration": 47.38629629629631,
+        "debuggingTime": 0,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 1.7210789179556518,
+        "averageCommentsPerPR": 4.4,
+        "prIterationRate": 0.6
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 7809024,
+        "bundleLoadTime": 78090.24,
+        "performanceScore": 92.374,
+        "typeScriptErrorRate": 0.2571428571428571,
+        "testCoverage": 95
+      },
+      "businessImpact": {
+        "timeToMarket": 5.650510400365155,
+        "featureSuccessRate": 0.71,
+        "activeContributors": 33,
+        "issueResolutionRate": 0.8571428571428571,
+        "communityGrowth": 54.939
+      },
+      "errors": []
+    },
+    {
+      "name": "pmndrs/jotai",
+      "description": "Atomic state",
+      "overallScore": 76,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.468,
+      "collectedAt": "2025-10-02T08:10:25.907Z",
+      "developerExperience": {
+        "codeReviewDuration": 116.05820906432743,
+        "debuggingTime": 0,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 1.1852038101217488,
+        "averageCommentsPerPR": 12.5,
+        "prIterationRate": 0.6
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 14820352,
+        "bundleLoadTime": 148203.52,
+        "performanceScore": 85.527,
+        "typeScriptErrorRate": 0.15,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 5.449117398648647,
+        "featureSuccessRate": 0.74,
+        "activeContributors": 22,
+        "issueResolutionRate": 1,
+        "communityGrowth": 20.557
+      },
+      "errors": []
+    },
+    {
+      "name": "pmndrs/valtio",
+      "description": "Proxy state",
+      "overallScore": 85,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.029,
+      "collectedAt": "2025-10-02T08:10:40.376Z",
+      "developerExperience": {
+        "codeReviewDuration": 50.9060725308642,
+        "debuggingTime": 0,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 1.5420557135380202,
+        "averageCommentsPerPR": 5.1,
+        "prIterationRate": 0.7
+      },
+      "technicalPerformance": {
+        "buildTime": 543.5,
+        "bundleSize": 5565440,
+        "bundleLoadTime": 55654.4,
+        "performanceScore": 94.565,
+        "typeScriptErrorRate": 0.27,
+        "testCoverage": 70
+      },
+      "businessImpact": {
+        "timeToMarket": 1.5693100071225063,
+        "featureSuccessRate": 0.78,
+        "activeContributors": 11,
+        "issueResolutionRate": 0.8,
+        "communityGrowth": 9.917
+      },
+      "errors": []
+    },
+    {
+      "name": "TanStack/query",
+      "description": "Data fetching",
+      "overallScore": 80,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 15.075,
+      "collectedAt": "2025-10-02T08:10:54.407Z",
+      "developerExperience": {
+        "codeReviewDuration": 133.24328282828284,
+        "debuggingTime": 0,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 1.2110451869577066,
+        "averageCommentsPerPR": 5.9,
+        "prIterationRate": 0.3
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 95527936,
+        "bundleLoadTime": 955279.36,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.42000000000000004,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 4.036344543279235,
+        "featureSuccessRate": 0.89,
+        "activeContributors": 42,
+        "issueResolutionRate": 0.3,
+        "communityGrowth": 46.84
+      },
+      "errors": []
+    },
+    {
+      "name": "apollographql/apollo-client",
+      "description": "GraphQL client",
+      "overallScore": 70,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 14.461,
+      "collectedAt": "2025-10-02T08:11:10.483Z",
+      "developerExperience": {
+        "codeReviewDuration": 335.5861111111111,
+        "debuggingTime": 16716.83361111111,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.02076872891616582,
+        "averageCommentsPerPR": 3.3,
+        "prIterationRate": 0.7
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 99578880,
+        "bundleLoadTime": 995788.8,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.19285714285714284,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 8.425738203957382,
+        "featureSuccessRate": 0.73,
+        "activeContributors": 9,
+        "issueResolutionRate": 0.7380952380952381,
+        "communityGrowth": 19.651
+      },
+      "errors": []
+    },
+    {
+      "name": "typeorm/typeorm",
+      "description": "TypeScript ORM",
+      "overallScore": 66,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.999,
+      "collectedAt": "2025-10-09T12:02:34.555Z",
+      "developerExperience": {
+        "codeReviewDuration": 1397.5345987654318,
+        "debuggingTime": 52270.8791954023,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.03842083372524557,
+        "averageCommentsPerPR": 5.9,
+        "prIterationRate": 0.7
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 32322560,
+        "bundleLoadTime": 323225.6,
+        "performanceScore": 68.435,
+        "typeScriptErrorRate": 0.2965116279069767,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 46.05185525599128,
+        "featureSuccessRate": 0.68,
+        "activeContributors": 33,
+        "issueResolutionRate": 0.18604651162790697,
+        "communityGrowth": 35.865
+      },
+      "errors": []
+    },
+    {
+      "name": "evanw/esbuild",
+      "description": "Fast bundler",
+      "overallScore": 66,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 12.916,
+      "collectedAt": "2025-10-02T08:11:39.167Z",
+      "developerExperience": {
+        "codeReviewDuration": 741.5002314814816,
+        "debuggingTime": 0,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.05814038793349693,
+        "averageCommentsPerPR": 1.1,
+        "prIterationRate": 0.1
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 20802560,
+        "bundleLoadTime": 208025.6,
+        "performanceScore": 79.685,
+        "typeScriptErrorRate": 0.33793103448275863,
+        "testCoverage": 75
+      },
+      "businessImpact": {
+        "timeToMarket": 15.321487409665764,
+        "featureSuccessRate": 0.41,
+        "activeContributors": 28,
+        "issueResolutionRate": 0.5402298850574713,
+        "communityGrowth": 39.354
+      },
+      "errors": []
+    },
+    {
+      "name": "swc-project/swc",
+      "description": "Fast compiler",
+      "overallScore": 72,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 15.388,
+      "collectedAt": "2025-10-02T08:11:53.085Z",
+      "developerExperience": {
+        "codeReviewDuration": 91.85743540051682,
+        "debuggingTime": 748.3399879227053,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.558499432927851,
+        "averageCommentsPerPR": 4,
+        "prIterationRate": 1
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 431799296,
+        "bundleLoadTime": 4317992.96,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.5181818181818182,
+        "testCoverage": 75
+      },
+      "businessImpact": {
+        "timeToMarket": 2.5194649916770695,
+        "featureSuccessRate": 0.89,
+        "activeContributors": 18,
+        "issueResolutionRate": 0.7575757575757576,
+        "communityGrowth": 32.774
+      },
+      "errors": []
+    },
+    {
+      "name": "prisma/prisma",
+      "description": "Next-generation ORM",
+      "overallScore": 68,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 15.226,
+      "collectedAt": "2025-10-09T12:02:49.556Z",
+      "developerExperience": {
+        "codeReviewDuration": 65.3791975308642,
+        "debuggingTime": 7290.996438172044,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.9232464360336611,
+        "averageCommentsPerPR": 1.7,
+        "prIterationRate": 0.7
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 167664640,
+        "bundleLoadTime": 1676646.4,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.3162162162162162,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 2.440683031121399,
+        "featureSuccessRate": 0.72,
+        "activeContributors": 16,
+        "issueResolutionRate": 0.527027027027027,
+        "communityGrowth": 43.981
+      },
+      "errors": []
+    },
+    {
+      "name": "web-infra-dev/rspack",
+      "description": "Fast bundler",
+      "overallScore": 71,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.665,
+      "collectedAt": "2025-10-02T08:12:24.091Z",
+      "developerExperience": {
+        "codeReviewDuration": 120.31048798798798,
+        "debuggingTime": 19.678333333333335,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 2.001577874364983,
+        "averageCommentsPerPR": 4,
+        "prIterationRate": 0.7
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 73203712,
+        "bundleLoadTime": 732037.12,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.37,
+        "testCoverage": 75
+      },
+      "businessImpact": {
+        "timeToMarket": 3.0082802619692868,
+        "featureSuccessRate": 0.82,
+        "activeContributors": 16,
+        "issueResolutionRate": 0.6,
+        "communityGrowth": 12.062
+      },
+      "errors": []
+    },
+    {
+      "name": "vercel/turbo",
+      "description": "Build system",
+      "overallScore": 62,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 21.015,
+      "collectedAt": "2025-10-02T08:12:38.758Z",
+      "developerExperience": {
+        "codeReviewDuration": 532.9627350427351,
+        "debuggingTime": 2254.571959876543,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.41473530324918084,
+        "averageCommentsPerPR": 4,
+        "prIterationRate": 0.6
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 795653120,
+        "bundleLoadTime": 7956531.2,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.37,
+        "testCoverage": 75
+      },
+      "businessImpact": {
+        "timeToMarket": 13.312442810457512,
+        "featureSuccessRate": 0.51,
+        "activeContributors": 18,
+        "issueResolutionRate": 0.5666666666666667,
+        "communityGrowth": 28.78
+      },
+      "errors": []
+    },
+    {
+      "name": "testing-library/react-testing-library",
+      "description": "Testing utilities",
+      "overallScore": 72,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.131,
+      "collectedAt": "2025-10-02T08:13:00.773Z",
+      "developerExperience": {
+        "codeReviewDuration": 466.11489197530875,
+        "debuggingTime": 3273.422777777778,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.03635250607985731,
+        "averageCommentsPerPR": 4.8,
+        "prIterationRate": 0.6
+      },
+      "technicalPerformance": {
+        "buildTime": 166.9,
+        "bundleSize": 1709056,
+        "bundleLoadTime": 17090.56,
+        "performanceScore": 98.331,
+        "typeScriptErrorRate": 0.36233766233766235,
+        "testCoverage": 75
+      },
+      "businessImpact": {
+        "timeToMarket": 12.635678240740738,
+        "featureSuccessRate": 0.75,
+        "activeContributors": 18,
+        "issueResolutionRate": 0.6623376623376623,
+        "communityGrowth": 19.402
+      },
+      "errors": []
+    },
+    {
+      "name": "microsoft/playwright",
+      "description": "E2E testing",
+      "overallScore": 79,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 16.783,
+      "collectedAt": "2025-10-02T08:13:14.906Z",
+      "developerExperience": {
+        "codeReviewDuration": 29.55409523809524,
+        "debuggingTime": 0,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 1.6473424035988888,
+        "averageCommentsPerPR": 1.8,
+        "prIterationRate": 0.2
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 222569472,
+        "bundleLoadTime": 2225694.72,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.1646341463414634,
+        "testCoverage": 95
+      },
+      "businessImpact": {
+        "timeToMarket": 0.6676734682213076,
+        "featureSuccessRate": 0.81,
+        "activeContributors": 11,
+        "issueResolutionRate": 0.3902439024390244,
+        "communityGrowth": 77.743
+      },
+      "errors": []
+    },
+    {
+      "name": "vitest-dev/vitest",
+      "description": "Test framework",
+      "overallScore": 64,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.984,
+      "collectedAt": "2025-10-02T08:13:32.691Z",
+      "developerExperience": {
+        "codeReviewDuration": 71.22099867724867,
+        "debuggingTime": 6704.306944444444,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 1.6036602664316628,
+        "averageCommentsPerPR": 1.6,
+        "prIterationRate": 0.4
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 46827520,
+        "bundleLoadTime": 468275.2,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.21101694915254238,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 13.18467413275952,
+        "featureSuccessRate": 0.71,
+        "activeContributors": 20,
+        "issueResolutionRate": 0.6101694915254238,
+        "communityGrowth": 15.04
+      },
+      "errors": []
+    },
+    {
+      "name": "nrwl/nx",
+      "description": "Monorepo build system",
+      "overallScore": 72,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.641,
+      "collectedAt": "2025-10-09T12:03:05.783Z",
+      "developerExperience": {
+        "codeReviewDuration": 183.73814814814816,
+        "debuggingTime": 2128.4292916666664,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.7633494278135504,
+        "averageCommentsPerPR": 4.9,
+        "prIterationRate": 0.4
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 789924864,
+        "bundleLoadTime": 7899248.64,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.3857142857142857,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 4.402095041989665,
+        "featureSuccessRate": 0.86,
+        "activeContributors": 18,
+        "issueResolutionRate": 0.32142857142857145,
+        "communityGrowth": 27.189
+      },
+      "errors": []
+    },
+    {
+      "name": "colinhacks/zod",
+      "description": "TypeScript-first schema validation",
+      "overallScore": 76,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.744,
+      "collectedAt": "2025-10-09T12:03:20.426Z",
+      "developerExperience": {
+        "codeReviewDuration": 98.98057936507934,
+        "debuggingTime": 0,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.127875012839219,
+        "averageCommentsPerPR": 0.8,
+        "prIterationRate": 0.1
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 23346176,
+        "bundleLoadTime": 233461.76,
+        "performanceScore": 77.201,
+        "typeScriptErrorRate": 0.2423076923076923,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 3.201202529522276,
+        "featureSuccessRate": 0.69,
+        "activeContributors": 38,
+        "issueResolutionRate": 0.5512820512820513,
+        "communityGrowth": 40.277
+      },
+      "errors": []
+    },
+    {
+      "name": "typescript-eslint/typescript-eslint",
+      "description": "ESLint for TS",
+      "overallScore": 71,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.335,
+      "collectedAt": "2025-10-02T08:14:15.937Z",
+      "developerExperience": {
+        "codeReviewDuration": 302.5032383040936,
+        "debuggingTime": 4037.946097883598,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.04271376631872603,
+        "averageCommentsPerPR": 4.4,
+        "prIterationRate": 0.6
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 77237248,
+        "bundleLoadTime": 772372.48,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.42000000000000004,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 10.334397032574744,
+        "featureSuccessRate": 0.83,
+        "activeContributors": 24,
+        "issueResolutionRate": 0.625,
+        "communityGrowth": 15.949
+      },
+      "errors": []
+    },
+    {
+      "name": "lerna/lerna",
+      "description": "Monorepo tool",
+      "overallScore": 62,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.23,
+      "collectedAt": "2025-10-02T08:14:30.274Z",
+      "developerExperience": {
+        "codeReviewDuration": 141.58593253968255,
+        "debuggingTime": 6435.043269841271,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 6.007961680122747,
+        "averageCommentsPerPR": 1.6,
+        "prIterationRate": 0.3
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 40100864,
+        "bundleLoadTime": 401008.64,
+        "performanceScore": 60.839,
+        "typeScriptErrorRate": 0.1596774193548387,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 12.392272579597142,
+        "featureSuccessRate": 0.57,
+        "activeContributors": 23,
+        "issueResolutionRate": 0.5806451612903226,
+        "communityGrowth": 36.024
+      },
+      "errors": []
+    },
+    {
+      "name": "mswjs/msw",
+      "description": "API mocking",
+      "overallScore": 72,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.538,
+      "collectedAt": "2025-10-02T08:14:44.506Z",
+      "developerExperience": {
+        "codeReviewDuration": 1085.3041260162597,
+        "debuggingTime": 2479.2482484567904,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.07072312333568487,
+        "averageCommentsPerPR": 3.1,
+        "prIterationRate": 0.7
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 13871104,
+        "bundleLoadTime": 138711.04,
+        "performanceScore": 86.45400000000001,
+        "typeScriptErrorRate": 0.196875,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 40.335149410774385,
+        "featureSuccessRate": 0.77,
+        "activeContributors": 17,
+        "issueResolutionRate": 0.6875,
+        "communityGrowth": 17.165
+      },
+      "errors": []
+    },
+    {
+      "name": "react-hook-form/react-hook-form",
+      "description": "Form library",
+      "overallScore": 67,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 14.407,
+      "collectedAt": "2025-10-02T08:14:59.046Z",
+      "developerExperience": {
+        "codeReviewDuration": 265.76947222222225,
+        "debuggingTime": 224.73555555555555,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.5804529217625006,
+        "averageCommentsPerPR": 0.9,
+        "prIterationRate": 0.6
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 30799872,
+        "bundleLoadTime": 307998.72,
+        "performanceScore": 69.922,
+        "typeScriptErrorRate": 0.1923076923076923,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 17.052821581196575,
+        "featureSuccessRate": 0.65,
+        "activeContributors": 35,
+        "issueResolutionRate": 0.7692307692307693,
+        "communityGrowth": 43.916
+      },
+      "errors": []
+    },
+    {
+      "name": "TanStack/form",
+      "description": "Form state",
+      "overallScore": 62,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 14.31,
+      "collectedAt": "2025-10-02T08:15:14.455Z",
+      "developerExperience": {
+        "codeReviewDuration": 153.76791269841274,
+        "debuggingTime": 893.6138888888887,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.6739284523671701,
+        "averageCommentsPerPR": 3.5,
+        "prIterationRate": 0.5
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 39853056,
+        "bundleLoadTime": 398530.56,
+        "performanceScore": 61.081,
+        "typeScriptErrorRate": 0.38142857142857145,
+        "testCoverage": 70
+      },
+      "businessImpact": {
+        "timeToMarket": 7.048459896584896,
+        "featureSuccessRate": 0.77,
+        "activeContributors": 29,
+        "issueResolutionRate": 0.42857142857142855,
+        "communityGrowth": 5.844
+      },
+      "errors": []
+    },
+    {
+      "name": "JedWatson/react-select",
+      "description": "Select component",
+      "overallScore": 67,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.951,
+      "collectedAt": "2025-10-02T08:15:29.766Z",
+      "developerExperience": {
+        "codeReviewDuration": 1865.8448251028808,
+        "debuggingTime": 11630.094429429426,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 1.2787177458647094,
+        "averageCommentsPerPR": 5.1,
+        "prIterationRate": 0.6
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 20222976,
+        "bundleLoadTime": 202229.76,
+        "performanceScore": 80.251,
+        "typeScriptErrorRate": 0.174,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 52.0443284970238,
+        "featureSuccessRate": 0.56,
+        "activeContributors": 25,
+        "issueResolutionRate": 0.30666666666666664,
+        "communityGrowth": 28.02
+      },
+      "errors": []
+    },
+    {
+      "name": "pmndrs/react-spring",
+      "description": "Animation library",
+      "overallScore": 57,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.851,
+      "collectedAt": "2025-10-02T08:15:44.718Z",
+      "developerExperience": {
+        "codeReviewDuration": 940.0684722222223,
+        "debuggingTime": 2449.6659567901233,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.38192506705069246,
+        "averageCommentsPerPR": 8.6,
+        "prIterationRate": 0.4
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 692545536,
+        "bundleLoadTime": 6925455.36,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.20192307692307693,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 45.39958455165694,
+        "featureSuccessRate": 0.57,
+        "activeContributors": 21,
+        "issueResolutionRate": 0.34615384615384615,
+        "communityGrowth": 28.911
+      },
+      "errors": []
+    },
+    {
+      "name": "recharts/recharts",
+      "description": "Chart library",
+      "overallScore": 79,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.036,
+      "collectedAt": "2025-10-02T08:15:59.569Z",
+      "developerExperience": {
+        "codeReviewDuration": 20.528308080808078,
+        "debuggingTime": 6269.200454545455,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 7.35569630997354,
+        "averageCommentsPerPR": 1.7,
+        "prIterationRate": 0.2
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 43832320,
+        "bundleLoadTime": 438323.2,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.175,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 0.9244851487723676,
+        "featureSuccessRate": 0.89,
+        "activeContributors": 10,
+        "issueResolutionRate": 0.3055555555555556,
+        "communityGrowth": 26.004
+      },
+      "errors": []
+    },
+    {
+      "name": "clauderic/dnd-kit",
+      "description": "Drag and drop",
+      "overallScore": 77,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 13.609,
+      "collectedAt": "2025-10-02T08:16:13.605Z",
+      "developerExperience": {
+        "codeReviewDuration": 97.50563829787235,
+        "debuggingTime": 0,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.49293385107025994,
+        "averageCommentsPerPR": 2.4,
+        "prIterationRate": 0.6
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 9438208,
+        "bundleLoadTime": 94382.08,
+        "performanceScore": 90.783,
+        "typeScriptErrorRate": 0.16058823529411764,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 19.67236318850902,
+        "featureSuccessRate": 0.78,
+        "activeContributors": 21,
+        "issueResolutionRate": 0.24705882352941178,
+        "communityGrowth": 15.775
+      },
+      "errors": []
+    },
+    {
+      "name": "floating-ui/floating-ui",
+      "description": "Positioning library",
+      "overallScore": 71,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 12.343,
+      "collectedAt": "2025-10-02T08:16:28.215Z",
+      "developerExperience": {
+        "codeReviewDuration": 56.9312962962963,
+        "debuggingTime": 2761.612222222222,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 0.2010220245975493,
+        "averageCommentsPerPR": 2.5,
+        "prIterationRate": 0.4
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 42065920,
+        "bundleLoadTime": 420659.2,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.15833333333333333,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 5.1552642746913575,
+        "featureSuccessRate": 0.84,
+        "activeContributors": 14,
+        "issueResolutionRate": 0.5833333333333334,
+        "communityGrowth": 31.92
+      },
+      "errors": []
+    },
+    {
+      "name": "rjsf-team/react-jsonschema-form",
+      "description": "JSON Schema forms",
+      "overallScore": 71,
+      "confidence": 90,
+      "dataSource": "github",
+      "processingTime": 14.045,
+      "collectedAt": "2025-10-02T08:16:41.559Z",
+      "developerExperience": {
+        "codeReviewDuration": 29.11274305555556,
+        "debuggingTime": 6703.477232510288,
+        "successfulDeploymentsRatio": 0.95,
+        "timeToFirstCommit": 2.5,
+        "linesChangedPerHour": 334.1313165888839,
+        "averageCommentsPerPR": 2,
+        "prIterationRate": 0.4
+      },
+      "technicalPerformance": {
+        "buildTime": 600,
+        "bundleSize": 407065600,
+        "bundleLoadTime": 4070656,
+        "performanceScore": 60,
+        "typeScriptErrorRate": 0.174,
+        "testCoverage": 85
+      },
+      "businessImpact": {
+        "timeToMarket": 5.236499099794238,
+        "featureSuccessRate": 0.9,
+        "activeContributors": 20,
+        "issueResolutionRate": 0.6,
+        "communityGrowth": 15.278
+      },
+      "errors": []
+    }
+  ],
+  "summary": {
+    "totalProjects": 50,
+    "successfulCollections": 50,
+    "failedCollections": 0,
+    "overallScores": {
+      "average": 70.68,
+      "median": 71,
+      "min": 57,
+      "max": 85,
+      "standardDeviation": 6.522085556016574
+    },
+    "developerExperience": {
+      "average": 23.92,
+      "median": 29,
+      "min": 3,
+      "max": 34
+    },
+    "technicalPerformance": {
+      "average": 75.48,
+      "median": 76,
+      "min": 72,
+      "max": 81
+    },
+    "businessImpact": {
+      "average": 15.26,
+      "median": 15,
+      "min": 5,
+      "max": 30
+    },
+    "dataSourceDistribution": {
+      "github": 50,
+      "mixed": 0,
+      "mock": 0
+    },
+    "averageProcessingTime": 14.06222,
+    "averageConfidence": 90
+  },
+  "methodology": {
+    "dataSource": "GitHub API",
+    "metricsFramework": "Outcome-based TypeScript Code Quality Assessment",
+    "categories": [
+      "Developer Experience",
+      "Technical Performance",
+      "Business Impact"
+    ]
+  },
+  "insights": {
+    "topProjects": [
+      {
+        "name": "pmndrs/valtio",
+        "score": 85,
+        "strengths": [],
+        "confidence": 90
+      },
+      {
+        "name": "nestjs/nest",
+        "score": 84,
+        "strengths": ["Fast code reviews", "High test coverage"],
+        "confidence": 90
+      },
+      {
+        "name": "reduxjs/redux",
+        "score": 84,
+        "strengths": ["Fast code reviews", "High test coverage"],
+        "confidence": 90
+      },
+      {
+        "name": "pmndrs/zustand",
+        "score": 82,
+        "strengths": ["High test coverage"],
+        "confidence": 90
+      },
+      {
+        "name": "TanStack/query",
+        "score": 80,
+        "strengths": ["High test coverage"],
+        "confidence": 90
+      }
+    ],
+    "averageMetrics": {
+      "codeReviewDuration": 324.1537757006345,
+      "debuggingTime": 3757.2872298406974,
+      "buildTime": 590.2080000000001,
+      "testCoverage": 85.8,
+      "activeContributors": 23,
+      "timeToMarket": 12.546384942470567
+    }
+  }
+}

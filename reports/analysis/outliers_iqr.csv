@@ -1,0 +1,14 @@
+Метрика,Кількість outliers
+dx_codeReviewDuration,3
+dx_debuggingTime,2
+dx_linesChangedPerHour,6
+dx_averageCommentsPerPR,3
+tp_buildTime,2
+tp_bundleSize,7
+tp_bundleLoadTime,7
+tp_performanceScore,7
+tp_testCoverage,2
+bi_timeToMarket,4
+bi_featureSuccessRate,2
+bi_activeContributors,2
+bi_communityGrowth,1

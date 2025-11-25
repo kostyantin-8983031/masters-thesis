@@ -1,0 +1,10 @@
+Metric,Missing Count,Missing %
+dx_codeReviewDuration,60,20.0
+dx_debuggingTime,123,41.0
+dx_linesChangedPerHour,61,20.333333333333332
+dx_averageCommentsPerPR,61,20.333333333333332
+dx_prIterationRate,77,25.666666666666664
+bi_timeToMarket,43,14.333333333333334
+bi_featureSuccessRate,43,14.333333333333334
+bi_activeContributors,43,14.333333333333334
+bi_issueResolutionRate,37,12.333333333333334

@@ -1,0 +1,172 @@
+Метрика 1,Метрика 2,Кореляція,p-value,Значуща (α=0.05),CI_lower (95%),CI_upper (95%),Сила зв'язку,FDR corrected p-value,Значуща (FDR)
+tp_bundleSize,tp_bundleLoadTime,0.9999999999999999,0.0,True,0.9999999999999998,1.0,Дуже сильна,,True
+dx_codeReviewDuration,bi_timeToMarket,0.8812864389231833,3.064802369161753e-17,True,0.7989141877785401,0.9312063253217232,Дуже сильна,,True
+tp_testCoverage,bi_communityGrowth,0.7716046823825267,5.4354632811472236e-11,True,0.6281691126260318,0.8643201672867303,Дуже сильна,,True
+dx_codeReviewDuration,dx_debuggingTime,0.4922864517868643,0.00028196783861075163,True,0.2479039685088635,0.6777653722902933,Середня,,True
+tp_bundleSize,bi_communityGrowth,0.4909050713974791,0.00029507251877744923,True,0.24619354626215856,0.6767793365350351,Середня,,True
+tp_bundleLoadTime,bi_communityGrowth,0.49090507139747896,0.00029507251877745135,True,0.24619354626215834,0.676779336535035,Середня,,True
+dx_debuggingTime,bi_timeToMarket,0.4643947100857629,0.0006805619953395007,True,0.21366115200445754,0.657726019400836,Середня,,True
+dx_averageCommentsPerPR,tp_bundleSize,0.4569772723860694,0.0008497425619761717,True,0.2046572758589575,0.6523503531740612,Середня,,True
+dx_averageCommentsPerPR,tp_bundleLoadTime,0.4569772723860694,0.0008497425619761717,True,0.2046572758589575,0.6523503531740612,Середня,,True
+overallScore,bi_timeToMarket,-0.4563537949398189,0.0008655531224905574,True,-0.651897600770981,-0.20390238974236002,Середня,,True
+dx_averageCommentsPerPR,dx_prIterationRate,0.441102969907428,0.001344341754540251,True,0.18553020064829417,0.6407792814062657,Середня,,True
+overallScore,dx_codeReviewDuration,-0.4339336239852915,0.0016421093542239775,True,-0.6355235053425224,-0.17695481891139941,Середня,,True
+tp_buildTime,tp_performanceScore,-0.42881344906288804,0.0018893772414144915,True,-0.6317584851028433,-0.17085427674915135,Середня,,True
+tp_typeScriptErrorRate,tp_testCoverage,-0.4050737685257565,0.0035220349100603655,True,-0.6141759540405928,-0.1428252219302645,Середня,,True
+bi_timeToMarket,bi_issueResolutionRate,-0.36326921276424484,0.0095148893375702,True,-0.5827008628098063,-0.09446906887566388,Середня,,False
+tp_bundleSize,tp_typeScriptErrorRate,0.3480235171602703,0.01326341297012451,True,0.07714415655144542,0.571056034542436,Середня,,False
+tp_bundleLoadTime,tp_typeScriptErrorRate,0.3480235171602702,0.013263412970124575,True,0.07714415655144531,0.571056034542436,Середня,,False
+dx_codeReviewDuration,bi_issueResolutionRate,-0.3393322396815947,0.015919315097956868,True,-0.5643771277656138,-0.0673402286970483,Середня,,False
+overallScore,bi_issueResolutionRate,0.32211155611857334,0.022534288541444757,True,0.04806887426408467,0.5510561116304666,Середня,,False
+overallScore,tp_bundleSize,-0.32187758290975266,0.022638067816697742,True,-0.5508743152089463,-0.04780843642614056,Середня,,False
+overallScore,tp_bundleLoadTime,-0.32187758290975255,0.022638067816697742,True,-0.5508743152089463,-0.04780843642614045,Середня,,False
+overallScore,tp_performanceScore,0.3029393187474654,0.03247976774659589,True,0.026850929960682078,0.5360869239721212,Середня,,False
+dx_codeReviewDuration,dx_prIterationRate,0.2980248033375412,0.035546162818543336,True,0.02145179267663171,0.53222604154386,Слабка,,False
+tp_bundleSize,tp_performanceScore,-0.29463846162188584,0.03779521178499728,True,-0.5295600235688531,-0.017740886653326723,Слабка,,False
+tp_bundleLoadTime,tp_performanceScore,-0.2946384616218858,0.03779521178499728,True,-0.529560023568853,-0.017740886653326668,Слабка,,False
+dx_prIterationRate,bi_featureSuccessRate,0.29440243689731294,0.037956240559632023,True,0.017482524183095746,0.5293740315391363,Слабка,,False
+tp_performanceScore,bi_communityGrowth,-0.2783511243276145,0.05030855099746721,False,-0.5166720669553139,1.5615580831172612e-06,Слабка,,False
+overallScore,bi_featureSuccessRate,0.2752627695789902,0.05302359559830465,False,-0.0033461799533013262,0.5142160503398766,Слабка,,False
+dx_averageCommentsPerPR,bi_timeToMarket,0.27368107494315913,0.054459318965413187,False,-0.005056709196155678,0.5129566870468012,Слабка,,False
+bi_featureSuccessRate,bi_communityGrowth,-0.26946813734752006,0.058437120354658395,False,-0.509597265168682,0.00960486075329696,Слабка,,False
+tp_buildTime,tp_testCoverage,0.26827904502084365,0.059601156957507506,False,-0.01088648043357145,0.5086477490764579,Слабка,,False
+dx_codeReviewDuration,tp_performanceScore,0.266006094635903,0.061878006543602766,False,-0.013333747294741976,0.5068311202645203,Слабка,,False
+dx_averageCommentsPerPR,bi_issueResolutionRate,-0.2598430513362984,0.06840369117243211,False,-0.5018945941597293,0.01995264830395488,Слабка,,False
+tp_bundleLoadTime,tp_testCoverage,0.25984066110489606,0.06840632429820766,False,-0.01995521058308955,0.5018926765480737,Слабка,,False
+tp_bundleSize,tp_testCoverage,0.25984066110489606,0.06840632429820766,False,-0.01995521058308955,0.5018926765480737,Слабка,,False
+dx_debuggingTime,bi_issueResolutionRate,-0.25767877410288054,0.07082113677017046,False,-0.5001572838814398,0.022271205183189695,Слабка,,False
+bi_featureSuccessRate,bi_activeContributors,0.2561377143152439,0.07258344251674219,False,-0.023920285352735368,0.4989190522284236,Слабка,,False
+dx_codeReviewDuration,dx_averageCommentsPerPR,0.2528930998099436,0.07640744910464738,False,-0.027387355321750437,0.49630878084335905,Слабка,,False
+tp_performanceScore,tp_testCoverage,-0.25070818504882053,0.0790709283135841,False,-0.494548547813744,0.02971827777791025,Слабка,,False
+dx_averageCommentsPerPR,tp_typeScriptErrorRate,0.2414428673845957,0.09118693764849015,False,-0.03956897992956503,0.4870618368884323,Слабка,,False
+overallScore,dx_debuggingTime,-0.2369980053911088,0.09749007291788948,False,-0.48345736976774395,0.04427536090765732,Слабка,,False
+dx_prIterationRate,bi_timeToMarket,0.23422566123109945,0.10158895196752235,False,-0.04720451096894865,0.48120495573782307,Слабка,,False
+tp_performanceScore,bi_timeToMarket,0.23106578268884428,0.10642142035989481,False,-0.05053722283718154,0.47863370315835796,Слабка,,False
+bi_timeToMarket,bi_communityGrowth,-0.23018360143918074,0.10780157168884719,False,-0.477915096659235,0.05146653753013788,Слабка,,False
+dx_averageCommentsPerPR,bi_featureSuccessRate,0.22662960624603848,0.11350106599093039,False,-0.05520548234955606,0.4750167233961989,Слабка,,False
+tp_bundleSize,bi_issueResolutionRate,-0.22530115334730305,0.11568950671547393,False,-0.4739319508670491,0.05660104136794812,Слабка,,False
+tp_bundleLoadTime,bi_issueResolutionRate,-0.225301153347303,0.11568950671547393,False,-0.47393195086704903,0.05660104136794815,Слабка,,False
+overallScore,dx_prIterationRate,-0.20640677427703819,0.1503945014775806,False,-0.45842126998432353,0.07633131916525547,Слабка,,False
+dx_prIterationRate,tp_testCoverage,-0.20471678201623444,0.1538374201989232,False,-0.45702640932112476,0.07808535513509288,Слабка,,False
+overallScore,dx_averageCommentsPerPR,-0.2034336351499743,0.1564899876876589,False,-0.45596651516462605,0.07941595964793331,Слабка,,False
+dx_prIterationRate,tp_performanceScore,0.19436425850704708,0.1762024781594949,False,-0.08879211895203394,0.4484546254850629,Слабка,,False
+dx_codeReviewDuration,bi_featureSuccessRate,-0.1937329037103732,0.17763857071654623,False,-0.44793035366627815,0.08944296716400418,Слабка,,False
+dx_linesChangedPerHour,dx_averageCommentsPerPR,-0.18874963483286944,0.1892706669335235,False,-0.4437861439309961,0.09457162338109516,Слабка,,False
+dx_prIterationRate,tp_typeScriptErrorRate,0.1857951736435022,0.1964185169573133,False,-0.09760519656283373,0.4413239791138558,Слабка,,False
+bi_timeToMarket,bi_activeContributors,0.18351250492911533,0.20207068012074703,False,-0.09994538796417718,0.43941902888135087,Слабка,,False
+tp_buildTime,tp_typeScriptErrorRate,-0.180854210737491,0.2087964670184599,False,-0.4371977039632916,0.10266672366047862,Слабка,,False
+dx_codeReviewDuration,dx_linesChangedPerHour,-0.179063061020294,0.21341592014680216,False,-0.43569921697503733,0.10449796043042978,Слабка,,False
+dx_prIterationRate,bi_communityGrowth,-0.1731560781593649,0.2291547851847096,False,-0.430747296007556,0.11052354922548085,Слабка,,False
+overallScore,tp_testCoverage,0.17015070154574374,0.23746207207711528,False,-0.11358128711793361,0.42822187174337545,Слабка,,False
+dx_codeReviewDuration,bi_communityGrowth,-0.1655851374661478,0.25047203702145,False,-0.42437769000055636,0.11821613285123077,Слабка,,False
+dx_debuggingTime,dx_prIterationRate,0.16239726828032436,0.25983673572155896,False,-0.12144506231293034,0.4216879779482295,Слабка,,False
+dx_linesChangedPerHour,bi_timeToMarket,-0.159937275383546,0.2672216790396385,False,-0.41960927557484146,0.12393264064770186,Слабка,,False
+dx_prIterationRate,bi_issueResolutionRate,-0.15568950792062575,0.2802996458422036,False,-0.41601347416831275,0.12821965763916635,Слабка,,False
+bi_issueResolutionRate,bi_communityGrowth,-0.15425136901386008,0.284821156925275,False,-0.41479421970304353,0.12966868479189458,Слабка,,False
+dx_averageCommentsPerPR,bi_activeContributors,0.15337131661379294,0.287611473962212,False,-0.13055480243661516,0.414047649361736,Слабка,,False
+tp_typeScriptErrorRate,bi_timeToMarket,-0.14003959662379167,0.3320592134216367,False,-0.40269495864300137,0.14392314737898937,Слабка,,False
+dx_linesChangedPerHour,dx_prIterationRate,-0.13759545376596055,0.3406505210714882,False,-0.4006048344835504,0.14636281384945013,Слабка,,False
+dx_averageCommentsPerPR,bi_communityGrowth,0.13215220750846046,0.36027390696904327,False,-0.15178370676100322,0.3959401511946795,Слабка,,False
+dx_linesChangedPerHour,tp_typeScriptErrorRate,-0.1311676133300054,0.3638954110948624,False,-0.39509492982603395,0.15276243669545103,Слабка,,False
+tp_buildTime,bi_communityGrowth,0.1290780086834664,0.37165403217441034,False,-0.15483775196407706,0.3932996344051352,Слабка,,False
+tp_bundleSize,bi_featureSuccessRate,-0.12886088490940403,0.37246586115990094,False,-0.3931129756816625,0.155053247367653,Слабка,,False
+tp_bundleLoadTime,bi_featureSuccessRate,-0.12886088490940403,0.37246586115990094,False,-0.3931129756816625,0.155053247367653,Слабка,,False
+tp_performanceScore,bi_issueResolutionRate,0.12544750096747034,0.38536798202303113,False,-0.1584374844040915,0.39017566476533,Слабка,,False
+dx_linesChangedPerHour,tp_performanceScore,-0.12430676516558638,0.38973805211171386,False,-0.38919282742864153,0.15956699436351193,Слабка,,False
+dx_linesChangedPerHour,bi_featureSuccessRate,-0.12293268424169129,0.3950406112368118,False,-0.3880081428494264,0.16092656698060143,Слабка,,False
+tp_performanceScore,tp_typeScriptErrorRate,-0.12210400210851875,0.3982587963414771,False,-0.387293258389834,0.16174597900374743,Слабка,,False
+tp_typeScriptErrorRate,bi_featureSuccessRate,0.12143261613208803,0.40087730049738296,False,-0.162409567577313,0.38671383566926465,Слабка,,False
+dx_linesChangedPerHour,bi_activeContributors,-0.11906522247682648,0.4101900425782732,False,-0.3846690435915453,0.16474741953099462,Слабка,,False
+dx_codeReviewDuration,tp_testCoverage,-0.11648342595346395,0.4204867098458279,False,-0.38243608945491125,0.16729336886054016,Слабка,,False
+tp_buildTime,bi_issueResolutionRate,-0.11132237617073218,0.4415044691049028,False,-0.3779630495865433,0.17237143994394843,Слабка,,False
+bi_timeToMarket,bi_featureSuccessRate,-0.10745867840835127,0.4576126582926633,False,-0.3746062464899115,0.17616317341421975,Слабка,,False
+bi_activeContributors,bi_communityGrowth,0.10416771312388903,0.47158110731331254,False,-0.17938621797078047,0.3717415029845191,Слабка,,False
+dx_debuggingTime,bi_communityGrowth,-0.098032623009977,0.4982177518841375,False,-0.3663873448494523,0.18537848168638824,Дуже слабка,,False
+dx_linesChangedPerHour,tp_testCoverage,0.09781215925630957,0.49918914183772073,False,-0.18559342138879575,0.3661946124438446,Дуже слабка,,False
+tp_testCoverage,bi_issueResolutionRate,-0.09710723877334211,0.502301632274294,False,-0.3655782068322695,0.18628049708390446,Дуже слабка,,False
+bi_featureSuccessRate,bi_issueResolutionRate,0.09689819553656397,0.5032265441786075,False,-0.18648419520040346,0.3653953672812456,Дуже слабка,,False
+overallScore,tp_typeScriptErrorRate,-0.09479647880648445,0.512573771216436,False,-0.363555949923809,0.18853081922110518,Дуже слабка,,False
+overallScore,bi_communityGrowth,0.09446416274653964,0.5140597028190279,False,-0.18885419904624517,0.36326491571583314,Дуже слабка,,False
+dx_debuggingTime,bi_featureSuccessRate,-0.09398592596572752,0.516201911665096,False,-0.36284599565334147,0.18931946785298598,Дуже слабка,,False
+tp_typeScriptErrorRate,bi_activeContributors,0.09213805138826847,0.5245211723349075,False,-0.19111604039987268,0.3612262950105333,Дуже слабка,,False
+tp_testCoverage,bi_featureSuccessRate,-0.08860809523846692,0.5405959631809448,False,-0.3581276946103395,0.19454272803256697,Дуже слабка,,False
+tp_testCoverage,bi_timeToMarket,-0.08793052677474825,0.5437085380636848,False,-0.35753224413531837,0.19519968463435058,Дуже слабка,,False
+dx_debuggingTime,dx_averageCommentsPerPR,0.08753183617909402,0.545544045764436,False,-0.19558612822900676,0.35718177042529303,Дуже слабка,,False
+tp_buildTime,bi_activeContributors,0.08368576999015634,0.5634019834763352,False,-0.19930954099611004,0.3537969364320519,Дуже слабка,,False
+tp_buildTime,tp_bundleSize,0.08199879176880757,0.5713200475583718,False,-0.20094014636960522,0.3523100303051732,Дуже слабка,,False
+tp_buildTime,tp_bundleLoadTime,0.08199879176880756,0.5713200475583718,False,-0.20094014636960525,0.3523100303051732,Дуже слабка,,False
+tp_testCoverage,bi_activeContributors,0.08172014412401414,0.5726328351419442,False,-0.20120933180134107,0.3520642983007186,Дуже слабка,,False
+dx_prIterationRate,tp_buildTime,-0.0767743605572773,0.5961611399471536,False,-0.34769653227982417,0.2059800684727322,Дуже слабка,,False
+overallScore,tp_buildTime,-0.06942641114222425,0.6318810826471417,False,-0.34118555843045145,0.21304321812298815,Дуже слабка,,False
+tp_performanceScore,bi_featureSuccessRate,-0.06743016026409795,0.6417354736743144,False,-0.3394121764898989,0.2149570097155213,Дуже слабка,,False
+dx_debuggingTime,tp_performanceScore,-0.06464533820132727,0.6555850014656143,False,-0.3369350282621902,0.2176231807987254,Дуже слабка,,False
+dx_averageCommentsPerPR,tp_performanceScore,0.06270092906799976,0.6653237796337508,False,-0.21948225176101613,0.3352032043628478,Дуже слабка,,False
+dx_codeReviewDuration,bi_activeContributors,0.057457978478100726,0.6918536570422514,False,-0.22448490269951746,0.33052427831433023,Дуже слабка,,False
+overallScore,dx_linesChangedPerHour,0.05617970558640707,0.6983792739238697,False,-0.22570233948777338,0.32938148025165154,Дуже слабка,,False
+dx_linesChangedPerHour,tp_bundleSize,0.0561124589457843,0.6987231732408423,False,-0.22576636133011677,0.32932133842217587,Дуже слабка,,False
+dx_linesChangedPerHour,tp_bundleLoadTime,0.05611245894578429,0.6987231732408423,False,-0.22576636133011677,0.32932133842217587,Дуже слабка,,False
+dx_linesChangedPerHour,bi_communityGrowth,0.05571848002442352,0.7007391826241202,False,-0.22614139816313444,0.32896894002100385,Дуже слабка,,False
+dx_debuggingTime,dx_linesChangedPerHour,0.054727122863421705,0.7058210163235841,False,-0.22708472239543903,0.3280818738539078,Дуже слабка,,False
+dx_averageCommentsPerPR,tp_buildTime,-0.05325739872413184,0.713378404144321,False,-0.3267658772683543,0.22848226345259412,Дуже слабка,,False
+dx_averageCommentsPerPR,tp_testCoverage,0.0513228801664018,0.7233673520927394,False,-0.2303200029727467,0.3250320837363898,Дуже слабка,,False
+dx_prIterationRate,bi_activeContributors,-0.050512764017304895,0.7275641197856977,False,-0.32430547797885445,0.23108899474214475,Дуже слабка,,False
+tp_typeScriptErrorRate,bi_issueResolutionRate,-0.04424058484655512,0.7603164561320629,False,-0.3186689077674912,0.23703089229527544,Дуже слабка,,False
+dx_codeReviewDuration,tp_typeScriptErrorRate,-0.03957023225666366,0.7849811338431663,False,-0.3144591940202321,0.24144168621169423,Дуже слабка,,False
+dx_codeReviewDuration,tp_buildTime,-0.039502597582186424,0.7853399255086269,False,-0.31439815065563176,0.24150547685570156,Дуже слабка,,False
+dx_linesChangedPerHour,tp_buildTime,0.03708440652832095,0.7981965433199153,False,-0.24378463493447156,0.3122141286944007,Дуже слабка,,False
+overallScore,bi_activeContributors,-0.03247391573955222,0.8228535099298839,False,-0.308042027834803,0.24812146817094066,Дуже слабка,,False
+dx_debuggingTime,tp_typeScriptErrorRate,0.031228481087234077,0.8295443378618581,False,-0.24929105322186482,0.3069131945057793,Дуже слабка,,False
+dx_debuggingTime,tp_testCoverage,-0.031072044668162335,0.8303856158764167,False,-0.3067713492787089,0.24943790450634276,Дуже слабка,,False
+tp_buildTime,bi_featureSuccessRate,-0.028627763451258736,0.8435542626814792,False,-0.3045534601780434,0.2517307459330321,Дуже слабка,,False
+tp_bundleSize,bi_activeContributors,-0.024966858929092433,0.8633558958734845,False,-0.30122602667778026,0.255158955896846,Дуже слабка,,False
+tp_bundleLoadTime,bi_activeContributors,-0.024966858929092423,0.8633558958734845,False,-0.30122602667778026,0.255158955896846,Дуже слабка,,False
+dx_prIterationRate,tp_bundleSize,-0.022058810072152556,0.8791454499881526,False,-0.29857806790283126,0.25787715313054915,Дуже слабка,,False
+dx_prIterationRate,tp_bundleLoadTime,-0.022058810072152556,0.8791454499881526,False,-0.29857806790283126,0.25787715313054915,Дуже слабка,,False
+dx_debuggingTime,tp_buildTime,0.017895921495693592,0.9018280187584695,False,-0.2617605711359345,0.29478007609921975,Дуже слабка,,False
+dx_debuggingTime,bi_activeContributors,-0.017006567206037874,0.9066845987264862,False,-0.29396754220108157,0.2625890473955104,Дуже слабка,,False
+dx_debuggingTime,tp_bundleSize,-0.01620810338482264,0.9110477301256339,False,-0.29323770667701876,0.2633325037851592,Дуже слабка,,False
+dx_debuggingTime,tp_bundleLoadTime,-0.01620810338482263,0.9110477301256339,False,-0.29323770667701876,0.2633325037851592,Дуже слабка,,False
+tp_buildTime,bi_timeToMarket,0.01557589472764027,0.9145042253664257,False,-0.2639209231495782,0.2926596074840184,Дуже слабка,,False
+tp_bundleLoadTime,bi_timeToMarket,0.014076373100861777,0.9227087581940201,False,-0.265315750525319,0.2912876164441383,Дуже слабка,,False
+tp_bundleSize,bi_timeToMarket,0.014076373100861773,0.9227087581940201,False,-0.265315750525319,0.2912876164441383,Дуже слабка,,False
+dx_codeReviewDuration,tp_bundleSize,0.013851884668851934,0.923937738287853,False,-0.26552446493210513,0.2910821220077372,Дуже слабка,,False
+dx_codeReviewDuration,tp_bundleLoadTime,0.013851884668851934,0.923937738287853,False,-0.26552446493210513,0.2910821220077372,Дуже слабка,,False
+tp_typeScriptErrorRate,bi_communityGrowth,-0.011501668181801039,0.9368142095958731,False,-0.2889292207350507,0.2677079688202945,Дуже слабка,,False
+bi_activeContributors,bi_issueResolutionRate,-0.005284414710105132,0.9709462085817356,False,-0.28322038213993167,0.27347040611718626,Дуже слабка,,False
+tp_performanceScore,bi_activeContributors,-0.0022124693186124644,0.9878336627213278,False,-0.2803923555616925,0.27631026028731825,Дуже слабка,,False
+dx_linesChangedPerHour,bi_issueResolutionRate,0.0014817133007264463,0.9918519110260698,False,-0.2769850909660421,0.27971891129379944,Дуже слабка,,False
+overallScore,dx_successfulDeploymentsRatio,,,False,,,Дуже сильна,,False
+overallScore,dx_timeToFirstCommit,,,False,,,Дуже сильна,,False
+dx_codeReviewDuration,dx_successfulDeploymentsRatio,,,False,,,Дуже сильна,,False
+dx_codeReviewDuration,dx_timeToFirstCommit,,,False,,,Дуже сильна,,False
+dx_debuggingTime,dx_successfulDeploymentsRatio,,,False,,,Дуже сильна,,False
+dx_debuggingTime,dx_timeToFirstCommit,,,False,,,Дуже сильна,,False
+dx_successfulDeploymentsRatio,dx_timeToFirstCommit,,,False,,,Дуже сильна,,False
+dx_successfulDeploymentsRatio,dx_linesChangedPerHour,,,False,,,Дуже сильна,,False
+dx_successfulDeploymentsRatio,dx_averageCommentsPerPR,,,False,,,Дуже сильна,,False
+dx_successfulDeploymentsRatio,dx_prIterationRate,,,False,,,Дуже сильна,,False
+dx_successfulDeploymentsRatio,tp_buildTime,,,False,,,Дуже сильна,,False
+dx_successfulDeploymentsRatio,tp_bundleSize,,,False,,,Дуже сильна,,False
+dx_successfulDeploymentsRatio,tp_bundleLoadTime,,,False,,,Дуже сильна,,False
+dx_successfulDeploymentsRatio,tp_performanceScore,,,False,,,Дуже сильна,,False
+dx_successfulDeploymentsRatio,tp_typeScriptErrorRate,,,False,,,Дуже сильна,,False
+dx_successfulDeploymentsRatio,tp_testCoverage,,,False,,,Дуже сильна,,False
+dx_successfulDeploymentsRatio,bi_timeToMarket,,,False,,,Дуже сильна,,False
+dx_successfulDeploymentsRatio,bi_featureSuccessRate,,,False,,,Дуже сильна,,False
+dx_successfulDeploymentsRatio,bi_activeContributors,,,False,,,Дуже сильна,,False
+dx_successfulDeploymentsRatio,bi_issueResolutionRate,,,False,,,Дуже сильна,,False
+dx_successfulDeploymentsRatio,bi_communityGrowth,,,False,,,Дуже сильна,,False
+dx_timeToFirstCommit,dx_linesChangedPerHour,,,False,,,Дуже сильна,,False
+dx_timeToFirstCommit,dx_averageCommentsPerPR,,,False,,,Дуже сильна,,False
+dx_timeToFirstCommit,dx_prIterationRate,,,False,,,Дуже сильна,,False
+dx_timeToFirstCommit,tp_buildTime,,,False,,,Дуже сильна,,False
+dx_timeToFirstCommit,tp_bundleSize,,,False,,,Дуже сильна,,False
+dx_timeToFirstCommit,tp_bundleLoadTime,,,False,,,Дуже сильна,,False
+dx_timeToFirstCommit,tp_performanceScore,,,False,,,Дуже сильна,,False
+dx_timeToFirstCommit,tp_typeScriptErrorRate,,,False,,,Дуже сильна,,False
+dx_timeToFirstCommit,tp_testCoverage,,,False,,,Дуже сильна,,False
+dx_timeToFirstCommit,bi_timeToMarket,,,False,,,Дуже сильна,,False
+dx_timeToFirstCommit,bi_featureSuccessRate,,,False,,,Дуже сильна,,False
+dx_timeToFirstCommit,bi_activeContributors,,,False,,,Дуже сильна,,False
+dx_timeToFirstCommit,bi_issueResolutionRate,,,False,,,Дуже сильна,,False
+dx_timeToFirstCommit,bi_communityGrowth,,,False,,,Дуже сильна,,False

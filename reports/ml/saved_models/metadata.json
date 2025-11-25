@@ -1,0 +1,20 @@
+{
+  "targets": ["overallScore", "timeToMarket", "communityGrowth"],
+  "feature_count": 24,
+  "training_samples": 42,
+  "test_samples": 8,
+  "models": {
+    "overallScore": {
+      "type": "LinearRegression",
+      "needs_scaling": false
+    },
+    "timeToMarket": {
+      "type": "Lasso",
+      "needs_scaling": true
+    },
+    "communityGrowth": {
+      "type": "Lasso",
+      "needs_scaling": true
+    }
+  }
+}

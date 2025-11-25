@@ -1,0 +1,25 @@
+Feature,Mean |SHAP|
+dx_codeReviewDuration,5.4504957
+bi_issueResolutionRate,1.1337208
+bi_activeContributors,1.107889
+dx_linesChangedPerHour,0.5456926
+bi_featureSuccessRate,0.51073915
+dx_debuggingTime,0.37380153
+tp_bundleSize,0.27162802
+dx_averageCommentsPerPR,0.19181816
+dx_efficiency,0.14305274
+tp_typeScriptErrorRate,0.09488848
+dx_tp_interaction,0.079131976
+dx_prIterationRate,0.047339685
+avg_bi,0.01702728
+testCov_per_errorRate,0.010754721
+dx_codeReviewDuration_squared,0.0
+dx_codeReviewDuration_log,0.0
+tp_bundleSize_log,0.0
+confidence,0.0
+Cluster,0.0
+tp_performanceScore,0.0
+tp_buildTime,0.0
+dx_timeToFirstCommit,0.0
+dx_successfulDeploymentsRatio,0.0
+tp_testCoverage,0.0
