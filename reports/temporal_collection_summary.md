@@ -1,6 +1,14 @@
 # Temporal Metrics Collection Summary
 
-**Generated:** 2025-10-13T07:22:03.933Z
+**Магістерська робота:** Outcome-based оцінка якості TypeScript коду
+**Автор:** Слабенко Костянтин Олегович
+**Група:** АС-202
+**Керівник:** Доктор технічних наук, професор Любченко Віра Вікторівна
+**Заклад:** Одеський політехнічний національний університет
+**Дата:** 13 жовтня 2025 р.
+**Фаза:** 2.3 - Temporal Data Collection & Analysis
+
+---
 
 ## Collection Configuration
 
@@ -89,3 +97,11 @@
 1. Run temporal analysis: `python analysis/temporal_analysis.py`
 2. Generate visualizations
 3. Update ML models with temporal features
+
+---
+
+**Кінець звіту**
+
+_Магістерська робота: Outcome-based оцінка якості TypeScript коду_
+_Одеський політехнічний національний університет, 2025_
+_Автор: Слабенко Костянтин Олегович_
